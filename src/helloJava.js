@@ -40,4 +40,7 @@ console.log(myArray);
 \' single quote
 \" double quote
 \\ backslash
+== equality !=
+=== strict equality !==
+&& and  || or
  */
